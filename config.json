@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruncrypt",
+        "uuid": 201294,
+        "checksum": "gxjz6i"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
